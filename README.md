@@ -1,2 +1,6 @@
 # Pluto
-Pluto. Please find it in my organization Calculors.
+#### Used for calculating. And it's a benefit for keyboarder.
+## Ended in 2016.2
+![](http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=Pluto&step_word=&pn=12&spn=0&di=181157525230&pi=&rn=1&tn=baiduimagedetail&is=&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=1503035240%2C1522852476&os=2207445439%2C693695304&simid=3355730250%2C308199695&adpicid=0&ln=1970&fr=&fmq=1469892526905_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fimg.xiami.net%2Fimages%2Falbum%2Fimg47%2F416538947%2F10165417021416541702.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3F4_z%26e3Bxtw4t_z%26e3Bv54AzdH3Fwsk74AzdH3F8a8mc980ad&gsm=0&rpstart=0&rpnum=0 "logo图片来源")
+![](http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=pluto&step_word=&pn=1&spn=0&di=103495699450&pi=&rn=1&tn=baiduimagedetail&is=&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=1275947366%2C3311355577&os=1211027870%2C1232402846&simid=0%2C0&adpicid=0&ln=1970&fr=&fmq=1469893153417_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fwww.globaltimes.cn%2FPortals%2F0%2Fattachment%2F2015%2F2015-07-15%2F5664cafe-87d6-408f-989f-1f6b5e29a518.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B2s5kwspt4jf_z%26e3BvgAzdH3Fv5gpjgpAzdH3Flnd8c0_z%26e3Bfip4s&gsm=0&rpstart=0&rpnum=0 "Pluto的灵感来源")
+###### 感谢你的关注与下载。

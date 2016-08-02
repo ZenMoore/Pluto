@@ -89,39 +89,43 @@ public class View extends JFrame {
 		});
 	}
 
-	public void setPro(){
-		this.pro.addFocusListener(new FocusListener(){
-			public void focusGained(FocusEvent e){
+	public void setPro() {
+		this.pro.addFocusListener(new FocusListener() {
+			public void focusGained(FocusEvent e) {
 				pro.setCaretColor(Color.BLACK);
 				pro.setBackground(Color.white);
 			}
-			public void focusLost(FocusEvent e){
+
+			public void focusLost(FocusEvent e) {
 				pro.setBackground(Color.lightGray);
 				pro.setCaretColor(Color.LIGHT_GRAY);
 			}
 		});
 		this.pro.addKeyListener(new KeyListener() {
 
-			   @Override
-			   public void keyPressed(KeyEvent arg0) {
-			   }
+			@Override
+			public void keyPressed(KeyEvent arg0) {
+			}
 
-			   @Override
-			   public void keyReleased(KeyEvent arg0) {
-			    	View.this.getPro1();
-			    	Calculate.play();
-			    	View.this.ans.setText(View.this.getAns());
-			   }
+			@Override
+			public void keyReleased(KeyEvent arg0) {
 
-			   @Override
-			   public void keyTyped(KeyEvent arg0) {
+			}
 
-			    if (arg0.getKeyChar() == KeyEvent.VK_ENTER) {	
-			    }
+			@Override
+			public void keyTyped(KeyEvent arg0) {
 
-			   }
-			  });
+				if (arg0.getKeyChar() == KeyEvent.VK_ENTER) {
+					View.this.getPro1();
+					Calculate.play();
+					View.this.ans.setText(View.this.getAns());
+				}else if(arg0.getKeyChar() == KeyEvent.VK_ESCAPE){
+					View.this.pro.setText(null);
+				}
+			}
+		});
 	}
+
 	
 	public void setAns(){
 		this.ans.setEditable(false);
